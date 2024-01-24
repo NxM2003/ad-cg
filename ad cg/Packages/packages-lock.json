@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.mitay-walle.gradient-texture": {
+      "version": "file:C:/Users/manav/Contacts/Downloads/com.mitay-walle.gradient-texture-main/com.mitay-walle.gradient-texture-main",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,
